@@ -1,0 +1,14 @@
+<ie>
+    <plugins>
+        <plugin name="AUTO" location="libAutoPlugin.so">
+        </plugin>
+        <plugin name="HETERO" location="libHeteroPlugin.so">
+        </plugin>
+        <plugin name="MULTI" location="libMultiDevicePlugin.so">
+        </plugin>
+        <plugin name="MYRIAD" location="libmyriadPlugin.so">
+        </plugin>
+        <plugin name="CPU" location="libarmPlugin.so">
+        </plugin>
+    </plugins>
+</ie>
